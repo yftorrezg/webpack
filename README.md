@@ -14,6 +14,6 @@ Parac construir el build, recuerden
 ```
 npm run build
 ```
-## Fer Torrez 
-Aqui una prueba de aplicaciones con webpack en  el servidor de github
+## Fer Torrez
+Practica practica y practica
 
